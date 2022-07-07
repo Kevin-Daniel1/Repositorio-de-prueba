@@ -1,0 +1,14 @@
+.uno{
+    color:red;
+}
+
+.dos,
+.tres{
+    color:white;
+    background-color:black;
+}
+
+.subseccion.Cabecera{
+    color:aliceblue;
+    background-color:blue;
+}
